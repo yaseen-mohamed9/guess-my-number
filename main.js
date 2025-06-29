@@ -54,7 +54,8 @@ document.querySelector('.check').addEventListener('keyup', function(e){
       document.querySelector('.check').click();
     }
   }
-}
+});
+
 
 
 
